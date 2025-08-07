@@ -103,6 +103,3 @@ Project ini open source, silakan gunakan dan modifikasi sesuai kebutuhan.
 ---
 
 ## 🙏 Terima Kasih
-
-Terima kasih sudah menggunakan Quote API ini!  
-Semoga
